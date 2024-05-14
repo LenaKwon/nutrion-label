@@ -23,6 +23,7 @@ header{
     justify-content: end;
     align-items: center;
     position:fixed;
+    
 }
 ul{
    display: flex;
@@ -35,6 +36,7 @@ ul >li{
     list-style: none;
     padding-top: 30px;
     padding-left: 15px;
+    padding-right: 30px;
     
 }
 li > a{
