@@ -1,0 +1,60 @@
+.felx-outer li,
+.flex-inner {
+  display : flex;
+  flex-wrap : wrap;
+  align-items: center;
+}
+.flex-outer > li > label + *,
+.flex-inner {
+  flex: 1 0 220px;
+}
+.flex-inner li {
+  width : 100px;
+}
+.flex-inner {
+  justify-content: space-between;
+}
+
+label,
+input,
+select,
+textarea {
+   display: block;
+   padding: 10px;
+   margin-top: 20px;
+}
+
+input[type='radio'] {
+   display: inline;
+   
+}
+input[type='checkbox'] {
+   display: inline;
+  
+}
+body {
+   width: 80%;
+   height: 80vh;
+   background-color: rgba(28, 20, 42, 0.3);
+   color: rgb(244, 242, 242);
+   font-family: sans-serif;
+   margin: 100px 100px;
+   padding-right: 100px;
+}
+h1,
+p {
+   width: 100%;
+   text-align: center;
+}
+label {
+   margin: 1rem 0;
+}
+select {
+   color: grey;
+}
+.mywidth {
+   width: 100%;
+}
+div {
+  padding-bottom: 100px;
+}

@@ -1,0 +1,61 @@
+
+body{
+    font-family: sans-serif;
+}
+.big-box{
+    background-color: rgb(217, 211, 211);
+    padding: 0 20px;
+    
+}
+h1,p{
+    
+    text-align: center;
+}
+h1{
+    padding-top: 50px;
+}
+#image-div{
+    background-color: white;
+    width: 95% ;
+   
+    margin: 0 12px;
+    padding-bottom: 10px;
+    
+}
+#image, #image-caption{
+    display: block;
+    width: 50%;
+    max-width: 100%;
+    height:auto;
+    margin: 2px auto;
+    
+}
+#image-caption{
+    font-size: 6px;
+    
+}
+#tribute-info{
+    width: 500px;
+    margin-left: auto;
+    margin-right:auto;
+
+}
+
+#tribute-info > ul > li{
+    font-size: 11px;
+    padding: 10px 0;
+    
+}
+.note{
+    font-size: 11px;
+    text-align: left;
+    padding-left: 3em;
+    padding-top: 10px;
+}
+h5{
+    padding-left: 3em;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-left: 4em;
+    
+}

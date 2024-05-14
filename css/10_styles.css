@@ -1,0 +1,93 @@
+.wheel{
+    width: 55vw;
+    height: 55vw;
+    border: 4px solid brown;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 20px;
+    max-width: 500px;
+    max-height: 500px;
+    animation: wheels 10s linear infinite;
+}
+.line{
+    width: 50%;
+    height: 2px;
+    background-color: brown;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform-origin: 0% 0%;
+}
+.line:nth-of-type(2){
+    transform: rotate(60deg);
+}
+.line:nth-of-type(3){
+    transform: rotate(120deg);
+}
+.line:nth-of-type(4){
+    transform: rotate(180deg);
+}
+.line:nth-of-type(5){
+    transform: rotate(240deg);
+}
+.line:nth-of-type(6){
+    transform: rotate(300deg);
+}
+.cabin{
+    width: 20%;
+    height: 20%;
+    background-color: red;
+    border: 2px solid;
+    border-radius: 5px;
+    position: absolute;
+    transform-origin: 50% 0;
+    top:6%;
+    left:15%;
+    animation: cabins 10s linear infinite;
+}
+.cabin:nth-of-type(2){
+    top:7%;
+    left:65%;
+}
+.cabin:nth-of-type(3){
+    top:51%;
+    left:90%;
+}
+.cabin:nth-of-type(4){
+    top:93%;
+    left:64%;
+}
+.cabin:nth-of-type(5){
+    top:93%;
+    left:14%;
+}
+.cabin:nth-of-type(6){
+    top:49%;
+    left:-11%;
+}
+@keyframes wheels{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+@keyframes cabins{
+    0%{
+        transform: rotate(0deg);
+    }
+    25%{
+        background-color: purple;
+    }
+    50%{
+        background-color: yellow;
+    }
+    75%{
+        
+    }
+    100%{
+        transform: rotate(-360deg);
+    }
+}
