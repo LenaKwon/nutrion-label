@@ -1,5 +1,5 @@
 # basic css
-[freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/) __responsive web design__ 
+
 
 
 # what I did
@@ -70,3 +70,5 @@ https://github.com/lenn-dev/basic_CSS/assets/37726487/e5dca7db-f84a-42dd-9057-57
 https://github.com/lenn-dev/basic_CSS/assets/37726487/7fbc64da-ad15-4e12-bb5b-58159166e42e
 
 
+
+[freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/) __responsive web design__ 
