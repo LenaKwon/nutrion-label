@@ -14,13 +14,13 @@
 3. survey_form
 
 
-https://github.com/lenn-dev/basic_CSS/assets/37726487/12d87e09-490e-4538-b9f7-23dfe57b3714
+![survey_form-ezgif com-video-to-gif-converter](https://github.com/lenn-dev/basic_CSS/assets/37726487/38c6efd8-b92a-4662-b456-f5c0f64d953b)
+
 
 
 4. tribute_page
 
-
-https://github.com/lenn-dev/basic_CSS/assets/37726487/296a3b3d-a210-4b62-b907-8656abc13092
+![tribute-ezgif com-video-to-gif-converter](https://github.com/lenn-dev/basic_CSS/assets/37726487/0f808494-4233-4b58-9467-6b5ec2a55b43)
 
 
 
@@ -37,16 +37,16 @@ https://github.com/lenn-dev/basic_CSS/assets/37726487/296a3b3d-a210-4b62-b907-86
 7. city_skyline
 
 
+![cityskyline-ezgif com-video-to-gif-converter](https://github.com/lenn-dev/basic_CSS/assets/37726487/84e77c25-a490-449f-a5e2-1b7ccbc16965)
 
-https://github.com/lenn-dev/basic_CSS/assets/37726487/38b8fb0f-f280-44ce-a587-d01589dd4083
+
 
 
 
 8. magazine
 
 
-
-https://github.com/lenn-dev/basic_CSS/assets/37726487/f92b447d-f960-4d4f-934b-332596e7a11a
+![magazine-ezgif com-video-to-gif-converter](https://github.com/lenn-dev/basic_CSS/assets/37726487/7eaacc5c-0252-481f-bf28-bc2dfdf4d9fc)
 
 
 
@@ -57,17 +57,14 @@ https://github.com/lenn-dev/basic_CSS/assets/37726487/f92b447d-f960-4d4f-934b-33
 
 10. ferris_wheel
 
-
-
-https://github.com/lenn-dev/basic_CSS/assets/37726487/e5dca7db-f84a-42dd-9057-57af73e169f5
-
+![ferris-ezgif com-video-to-gif-converter](https://github.com/lenn-dev/basic_CSS/assets/37726487/d4a2cb75-10a7-4ec2-8d90-cc013ccda2e0)
 
 
 11. portfolio_page
 
+![portfolio_page-ezgif com-video-to-gif-converter](https://github.com/lenn-dev/basic_CSS/assets/37726487/f8c94eb4-648b-4d4e-a3cc-82435e99c2ce)
 
 
-https://github.com/lenn-dev/basic_CSS/assets/37726487/7fbc64da-ad15-4e12-bb5b-58159166e42e
 
 
 
