@@ -2,7 +2,7 @@
 
 
 
-# what I did
+#### what I did
 1. flexBox
 
 <img width="500" alt="Screenshot 2024-05-14 at 3 50 15 PM" src="https://github.com/lenn-dev/basic_CSS/assets/37726487/1ba8dead-97b1-4b66-a088-9bafad9dbaff">
