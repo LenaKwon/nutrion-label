@@ -65,9 +65,10 @@
 11. portfolio_page
 
 ![portfolio_page-ezgif com-video-to-gif-converter](https://github.com/lenn-dev/basic_CSS/assets/37726487/f8c94eb4-648b-4d4e-a3cc-82435e99c2ce)
+</br>
+</br>
 
 
-
-
+### Credit
 
 [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/) __responsive web design__ 
