@@ -20,6 +20,11 @@
 4. tribute_page
 
 
+
+https://github.com/lenn-dev/basic_CSS/assets/37726487/296a3b3d-a210-4b62-b907-8656abc13092
+
+
+
 5. balance_sheet
 
 <img width="512" alt="Screenshot 2024-05-14 at 4 09 00 PM" src="https://github.com/lenn-dev/basic_CSS/assets/37726487/23eeb366-2045-4aa4-a1cf-a9131bbfdcc8">
@@ -31,6 +36,10 @@
 
 
 7. city_skyline
+
+
+
+https://github.com/lenn-dev/basic_CSS/assets/37726487/38b8fb0f-f280-44ce-a587-d01589dd4083
 
 
 
@@ -48,5 +57,9 @@
 
 
 11. portfolio_page
+
+
+
+https://github.com/lenn-dev/basic_CSS/assets/37726487/7fbc64da-ad15-4e12-bb5b-58159166e42e
 
 
